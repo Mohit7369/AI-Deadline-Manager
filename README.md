@@ -35,7 +35,7 @@ Say goodbye 👋 to missed deadlines with its intuitive interface, smart priorit
 3. **▶️ Run the program**
 
    ```bash
-   python main.py
+   python ai_deadline_manager.py
    ```
 
 ---
